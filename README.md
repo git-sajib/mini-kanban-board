@@ -7,6 +7,11 @@ A full-stack, collaborative Mini Kanban Board web application built for the **We
 ![Database](https://img.shields.io/badge/Database-PostgreSQL%20with%20Prisma-green)
 ![Package Manager](https://img.shields.io/badge/Package%20Manager-pnpm-orange)
 
+### 🌐 Live Demo & Deployment Links
+- 🚀 **Live Web Application:** [https://mini-kanban-board-nu.vercel.app](https://mini-kanban-board-nu.vercel.app)
+- 📡 **Live Backend API:** [https://mini-kanban-board-7u8x.onrender.com/api](https://mini-kanban-board-7u8x.onrender.com/api)
+- 🗄️ **Managed Database:** Supabase PostgreSQL
+
 ---
 
 ## 🌟 Features
@@ -202,14 +207,16 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 🚢 Live Deployment (Optional)
+## 🚢 Live Deployment
 
-1. **Database**: Hosted on [Supabase](https://supabase.com) PostgreSQL.
-2. **Backend**: Deployed on [Render](https://render.com) (Root directory: `backend`, Build: `pnpm install && pnpm build`, Start: `node dist/main`).
-3. **Frontend**: Deployed on [Vercel](https://vercel.com) (Root directory: `frontend`, Environment variable: `NEXT_PUBLIC_API_URL` pointing to backend).
+- 🌐 **Frontend (Next.js):** Deployed on [Vercel](https://vercel.com) — [https://mini-kanban-board-nu.vercel.app](https://mini-kanban-board-nu.vercel.app)
+- 🔌 **Backend (NestJS):** Deployed on [Render](https://render.com) — [https://mini-kanban-board-7u8x.onrender.com/api](https://mini-kanban-board-7u8x.onrender.com/api)
+- 🗄️ **Database:** Hosted on [Supabase](https://supabase.com) PostgreSQL (Singapore region).
 
 ---
 
 ## 👨‍💻 Submission
-- Candidate: Full-Stack Engineer
-- Assessment by: **Webbriks**
+- **Candidate:** Samiul Islam
+- **Role:** Full-Stack Engineer
+- **Challenge:** Mini Kanban Board
+- **Assessment by:** **Webbriks**
