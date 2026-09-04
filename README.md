@@ -12,6 +12,11 @@ A full-stack, collaborative Mini Kanban Board web application built for the **We
 - 📡 **Live Backend API:** [https://mini-kanban-board-7u8x.onrender.com/api](https://mini-kanban-board-7u8x.onrender.com/api)
 - 🗄️ **Managed Database:** Supabase PostgreSQL
 
+### 🔑 Demo Accounts for Quick Evaluation
+Feel free to register a new account in 5 seconds, or test immediately with these pre-configured accounts:
+- **Board Owner:** `samiul@test.com` | Password: `123456`
+- **Board Collaborator:** `shohan@test.com` | Password: `123456`
+
 ---
 
 ## 🌟 Features
